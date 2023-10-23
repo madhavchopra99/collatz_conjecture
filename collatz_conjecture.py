@@ -22,7 +22,7 @@ def main():
     x = np.arange(len(sequence))
 
     fig = plt.figure('Collatz Conjecture')
-    plt.plot(x, sequence, 'k*-')
+    plt.plot(x, sequence, 'b.-')
     plt.xlabel('Step')
     plt.ylabel('Value')
     plt.title(f'Collatz Conjecture for {n}')
