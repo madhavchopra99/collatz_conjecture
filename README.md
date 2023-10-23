@@ -1,5 +1,3 @@
-# Collatz's Conjecture
-
 ## Rules:
 
 ![Rules](https://wikimedia.org/api/rest_v1/media/math/render/svg/9b2a03faf9d31a8de0abb3c4a3d318490105da12)
