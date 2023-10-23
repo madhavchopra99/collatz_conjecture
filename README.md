@@ -12,9 +12,13 @@
 
 ## How to run
 1. Install required dependencies:
-... python -m install -r requirements.txt
+```
+python -m install -r requirements.txt
+```
 2. Run program and enter value of 'n':
-... python collatz_conjecture
+```
+python collatz_conjecture
+```
 
 ## Screenshots
 
