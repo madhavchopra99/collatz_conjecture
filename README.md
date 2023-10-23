@@ -1,16 +1,23 @@
 # Collatz's Conjecture
 
 ## Rules:
+
 * if n is even:
-... n/2
+
+...n/2
+
 * if n is odd:
-... 3n+1
+
+...3n+1
 
 ## Dependencies
+
 * Matplotlib
+
 * Numpy
 
 ## How to run
+
 1. Install required dependencies:
 ```
 python -m install -r requirements.txt
